@@ -4,12 +4,12 @@
 
 * Created a model that estimates the price of a stock accurately by x%.
 * Got data from API using python. {DONE}
-* Created a Micro Database instance on AWS and stored the data using python. - {IN PROGRESS: 60%}
+* Created an sqlite3 database and store the data using python. - {IN PROGRESS: 60%}
 * Performed Data Analysis and analysed trends in the data. - {}
 * Deployed the model using Flask. {}
 
 
-This is my first project where I intend to cover the whole data science lifecycle from getting the data from an API, storing the data in a cloud database (AWS), performing data analysis and try to predict the price of the stock a day, week or a month from now based on the requirement of the user.
+This is my first project where I intend to cover the whole data science lifecycle from getting the data from an API, storing the data in an sqlite3 database, performing data analysis and try to predict the price of the stock a day, week or a month from now based on the requirement of the user.
 
 **GETTING DATA:**
 
@@ -39,7 +39,7 @@ In the company overview dataframe, we have the following columns:
 
 **Storing in a Database:**
 
-I created a micro database instance in AWS where I store the data and retrieve it whenever required for the model or analysis
+Created an sqlite3 database and added values to the database.
 
 
 
