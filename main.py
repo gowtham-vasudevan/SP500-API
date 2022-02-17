@@ -1,5 +1,4 @@
 # Importing the required libraries
-from pkgutil import get_data
 import requests
 import time
 import numpy as np
