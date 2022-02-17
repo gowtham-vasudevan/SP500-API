@@ -40,11 +40,3 @@ In the company overview dataframe, we have the following columns:
 **Storing in a Database:**
 
 Created an sqlite3 database and added values to the database.
-
-
-
-
-
-**Note:**
-
-This is still a work in progress . I intend on completing within Feb 2022.
