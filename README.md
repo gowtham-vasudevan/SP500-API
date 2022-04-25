@@ -1,15 +1,10 @@
-# Stock-Price-Prediction
+# Stock Data from API
 
 **Project Overview:**
 
-* Created a model that estimates the price of a stock accurately by x%.
-* Got data from API using python. {DONE}
-* Created an sqlite3 database and store the data using python. - {IN PROGRESS: 60%}
-* Performed Data Analysis and analysed trends in the data. - {}
-* Deployed the model using Flask. {}
-
-
-This is my first project where I intend to cover the whole data science lifecycle from getting the data from an API, storing the data in an sqlite3 database, performing data analysis and try to predict the price of the stock a day, week or a month from now based on the requirement of the user.
+* Get historical prices of all S&P 500 companies from API using python.
+* Create an sqlite3 database
+* Store the values in the sqlite3 database
 
 **GETTING DATA:**
 
